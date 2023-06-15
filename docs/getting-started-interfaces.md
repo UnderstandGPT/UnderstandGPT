@@ -1,12 +1,6 @@
 # How do I get started, what interfaces can I use?
 
-To interact with a model it is recommend that you utilize one of the pre-existing interfaces that have been built by the open-source community.
-
-These interfaces provide several handy features:
-- A chat-like interface to interact with your model
-- Swapping between prompt types to match the model being used
-- Model re-training (currently Ooba only)
-- Support for changing model parameters on the fly
+To interact with a large language model (LLM) it is recommend that you utilize one of the pre-existing interfaces that have been built by the open-source community.
 
 There are a few interface options based on your particular needs:
 
