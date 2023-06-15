@@ -7,7 +7,7 @@ As a generic guidance, it is good for your system to have:
 - Ample disk space to store models (can be 100GB+ if experimenting with models, datasets, etc.)
 - Although a GPU is not required it can greatly improve the token generation speed and user experience.
 
-### Starter Configurations
+### Starter Hardware Configurations
 
 ![Starter-Build](https://www.digitaltrends.com/wp-content/uploads/2022/08/macbook-air-m2-1.jpg)
 
