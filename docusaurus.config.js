@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'UnderstandGPT',
   tagline: 'Simplfying ',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/head.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -67,7 +67,7 @@ const config = {
         title: 'UnderstandGPT',
         logo: {
           alt: 'UnderstandGPT Logo',
-          src: 'img/logo.svg',
+          src: 'img/head.png',
         },
         items: [
           {
