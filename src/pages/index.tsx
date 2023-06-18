@@ -32,7 +32,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Accelerate your natural language processing tasks with Large-Language Models. Learn about AI, training techniques, and deployment strategies for leveraging these powerful models on your own hardware or the cloud.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
