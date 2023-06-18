@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Learn',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Explore the world of Large-Language Models -- learn how AI can revolutionize your language tasks, and discover the best practices for training and deployment!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Deploy',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Get ahead of the game -- deploy a cutting-edge Large-Language Model in just a few clicks, in the cloud or on your own device!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Build',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Take your applications and services to the next level -- build intelligent applications and services that harness the power of Large-Language Models!
       </>
     ),
   },

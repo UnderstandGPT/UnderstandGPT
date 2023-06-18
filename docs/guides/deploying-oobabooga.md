@@ -44,19 +44,19 @@ Docker can allow you to easily replicate, share or even redeploy your interface 
 
 ##### Docker for Windows
 
-[Install Docker Desktop for Windows](https://docs.docker.com/desktop/install/windows-install/)
+- [Install Docker Desktop for Windows](https://docs.docker.com/desktop/install/windows-install/)
 
 ##### Docker for Linux
 
-Utilize the Docker provided [convenience script](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
+- Utilize the Docker provided [convenience script](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
 
 ##### Docker for MacOS
 
-[Install Docker Desktop for MacOS](https://docs.docker.com/desktop/install/mac-install/)
+- [Install Docker Desktop for MacOS](https://docs.docker.com/desktop/install/mac-install/)
 
 ### Proceeding with Setup
 
 Now that you have Python and/or Docker installed, you can continue on to deploying Oobabooga text-generation-ui.
 
-- [Python setup instructions](https://github.com/oobabooga/text-generation-webui#installation)
-- [Easy setup with Docker](https://github.com/Atinoda/text-generation-webui-docker)
+- [Python setup](https://github.com/oobabooga/text-generation-webui#installation)
+- [Docker setup](https://github.com/Atinoda/text-generation-webui-docker)
